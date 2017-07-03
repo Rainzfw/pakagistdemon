@@ -1,0 +1,14 @@
+{
+    "name": "rainzfw/pakagistdemon",
+    "description": "create test pakagist project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rain",
+            "email": "18111251826@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
